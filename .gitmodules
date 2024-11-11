@@ -2,3 +2,12 @@
 [submodule "Portfolio"]
 	path = Portfolio
 	url = https://github.com/joshwinnes11/Portfolio.git
+[submodule "Ski Project"]
+	path = Ski Project
+	url = https://github.com/joshwinnes11/Project2.git
+[submodule "Instacart Project"]
+	path = Instacart Project
+	url = https://github.com/jonathancontreras02/Project1.1.git
+[submodule "MT Clustering"]
+	path = MT Clustering
+	url = https://github.com/joshwinnes11/Ministry-Team-Clustering.git
