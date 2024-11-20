@@ -11,3 +11,6 @@
 [submodule "MT Clustering"]
 	path = MT Clustering
 	url = https://github.com/joshwinnes11/Ministry-Team-Clustering.git
+[submodule "Voice Classification"]
+	path = Voice Classification
+	url = https://github.com/joshwinnes11/Project3.git
