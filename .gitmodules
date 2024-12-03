@@ -14,3 +14,6 @@
 [submodule "Voice Classification"]
 	path = Voice Classification
 	url = https://github.com/joshwinnes11/Project3.git
+[submodule "Webpage Text Classification"]
+	path = Webpage Text Classification
+	url = https://github.com/joshwinnes11/Project-4.git
