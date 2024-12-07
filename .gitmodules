@@ -20,3 +20,6 @@
 [submodule "Real/Fake Voice Recognition"]
 	path = Real/Fake Voice Recognition
 	url = https://github.com/joshwinnes11/Final-Project.git
+[submodule "Project Reports"]
+	path = Project Reports
+	url = https://github.com/joshwinnes11/Project-Reports.git
