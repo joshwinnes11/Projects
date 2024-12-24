@@ -23,3 +23,6 @@
 [submodule "AI Voice Recognition"]
 	path = AI Voice Recognition
 	url = https://github.com/joshwinnes11/Final-Project.git
+[submodule "Flight Delay Prediction"]
+	path = Flight Delay Prediction
+	url = https://github.com/joshwinnes11/Flight-Delay-Prediction.git
