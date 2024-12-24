@@ -1,33 +1,25 @@
 # **Projects**
----
-## **AI Voice Recognition**
 
+### **AI Voice Recognition**
 ***Status:*** Finished
----
-## **Flight Delay Prediction**
 
+### **Flight Delay Prediction**
 ***Status***: In Progress
----
-## **Instacart Item Association**
 
+### **Instacart Item Association**
 ***Status***: Finished
----
-## **Ministry Team Clustering**
 
+### **Ministry Team Clustering**
 ***Status:*** In Progress
----
-## **Portfolio Website**
 
+### **Portfolio Website**
 ***Status:*** Continually updated
----
-## **Skiing Data Visualization**
 
+### **Skiing Data Visualization**
 ***Status:*** Finished
----
-## **Voice Demographic Classification**
 
+### **Voice Demographic Classification**
 ***Status:*** Finished
----
-## **Webpage Text Classification**
 
+### **Webpage Text Classification**
 ***Status:*** Finished
