@@ -17,9 +17,9 @@
 [submodule "Webpage Text Classification"]
 	path = Webpage Text Classification
 	url = https://github.com/joshwinnes11/Project-4.git
-[submodule "Real/Fake Voice Recognition"]
-	path = Real/Fake Voice Recognition
-	url = https://github.com/joshwinnes11/Final-Project.git
 [submodule "Project Reports"]
 	path = Project Reports
 	url = https://github.com/joshwinnes11/Project-Reports.git
+[submodule "AI Voice Recognition"]
+	path = AI Voice Recognition
+	url = https://github.com/joshwinnes11/Final-Project.git
